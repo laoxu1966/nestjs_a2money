@@ -2,7 +2,7 @@
 
 欢迎你来到能力变现平台(以下简称本平台)。
 
-在使用本平台之前，请你详细阅读有关文档，包括：[关于](README.md "关于")，[服务条款](TERMS.md "服务条款")，[商业模式](BUSINESS.md "商业模式")，[隐私政策](PRIVACY.md "隐私政策")，[帮助](HELP.md "帮助")等。其中，服务条款是必读的，且必须同意该服务条款，才能使用本平台。
+在使用本平台之前，请你详细阅读有关文档，包括：关于，服务条款，商业模式，隐私政策，帮助等。其中，服务条款是必读的，且必须同意该服务条款，才能使用本平台。
 
 本平台是开源的，如果你是一个开发者，欢迎你访问托管在[GitHub](https://github.com/laoxu1966/)上的开源项目，包括[前端项目(flutter/dart)](https://github.com/laoxu1966/flutter_a2money)和[后端项目(nestjs/typescript)](https://github.com/laoxu1966/nestjs_a2money)。
 
@@ -28,11 +28,13 @@
 
 ### **更新日志**
 
-2022年4月19日，发布flutter_a2money 0.4.1+49,如果想要安装“能力变现平台”，你可以到阿里（PP助手、豌豆荚）、360、百度、华为、小米、OPPO、Google Play、APKPure等应用商店(市场)搜索“能力变现”，也可以点击(或复制)以下链接：https://www.a2money.com:3000/download
+2022年4月20日，发布了“佛经今译”系列“大佛顶首楞严经今译 概述（7）”，请访问以下链接：https://laoxu1966.github.io
+
+2022年4月19日，发布flutter_a2money 0.4.1+49，如果想要安装“能力变现平台”，你可以到阿里（PP助手、豌豆荚）、360、百度、华为、小米、OPPO、Google Play、APKPure等应用商店(市场)搜索“能力变现”，也可以点击(或复制)以下链接：https://www.a2money.com:3000/download
 
 2022年4月19日，发布了“佛经今译”系列“大佛顶首楞严经今译 概述（6）”，请访问以下链接：https://laoxu1966.github.io
 
-2022年4月18日，发布flutter_a2money 0.4.0+48,如果想要安装“能力变现平台”，你可以到阿里（PP助手、豌豆荚）、360、百度、华为、小米、OPPO、Google Play、APKPure等应用商店(市场)搜索“能力变现”，也可以点击(或复制)以下链接：https://www.a2money.com:3000/download
+2022年4月18日，发布flutter_a2money 0.4.0+48，如果想要安装“能力变现平台”，你可以到阿里（PP助手、豌豆荚）、360、百度、华为、小米、OPPO、Google Play、APKPure等应用商店(市场)搜索“能力变现”，也可以点击(或复制)以下链接：https://www.a2money.com:3000/download
 
 2022年4月18日，发布了“佛经今译”系列“大佛顶首楞严经今译 概述（5）”，请访问以下链接：https://laoxu1966.github.io
 
